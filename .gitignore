@@ -1,0 +1,8 @@
+# Build-Ausgabe und Benutzerdaten / build output and user data
+App/
+Release/
+src/bin/
+src/obj/
+*.user
+.vs/
+docs/__pycache__/
